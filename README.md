@@ -1,3 +1,11 @@
 i do stuff
 
-[![my gh stats](https://github-readme-stats.vercel.app/api?username=cottonable)](https://github.com/anuraghazra/github-readme-stats)
+currently learning C#
+
+goals:
+- [ ] media file converter (pretty much an ffmpeg wrapper)
+- [ ] youtube downloader (almost all ytdls suck)
+- [ ] minecraft launcher (why not)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=cottonable&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cottonable&layout=compact&theme=radical)
