@@ -1,7 +1,6 @@
 i do stuff
 
-currently learning C#
-on a break until i remember to do that
+currently learning C# (on a break until i remember to do that)
 
 goals:
 - [ ] media file converter (pretty much an ffmpeg wrapper)
